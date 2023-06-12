@@ -1,6 +1,6 @@
 # Spotify Discover Weekly Archiver
 
-![banner](https://example.com/banner-image.jpg)
+![banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsroom.spotify.com%2Fmedia-kit%2Flogo-and-brand-assets%2F&psig=AOvVaw2XheqCHFM34O_1FyoO7FH0&ust=1686619656532000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJi24P3JvP8CFQAAAAAdAAAAABAE)
 
 Spotify Discover Weekly Archiver is a web app designed to automatically save your Discover Weekly playlist on Spotify, ensuring you never lose your favorite songs. This way, you can always revisit your past week's discoveries and relive your musical journey.
 
